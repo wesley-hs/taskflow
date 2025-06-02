@@ -28,25 +28,4 @@
 
 ## 📦 Instalação Local
 
-### Pré-requisitos
-- Node.js 16+
-- Docker 20+
-- VS Code (recomendado)
 
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/taskflow.git
-cd taskflow
-
-# 2. Inicie o PostgreSQL
-docker-compose up -d
-
-# 3. Configure backend (Node.js)
-cd backend
-npm install
-npm run dev
-
-# 4. Configure frontend
-cd ../frontend
-npm install
-npm run dev
