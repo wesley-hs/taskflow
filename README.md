@@ -26,6 +26,6 @@
 | **Banco**       | PostgreSQL (Docker)                   |
 | **Infra**       | Docker, GitHub Actions                |
 
-## 📦 Instalação Local
+
 
 
